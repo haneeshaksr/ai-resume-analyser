@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer & Job Role Recommender",
+  "description": "AI-Powered Resume Analyzer & Personalized Job Role Recommendation System. Understand your skills, improve your resume, and discover relevant career roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
